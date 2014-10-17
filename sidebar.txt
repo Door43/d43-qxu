@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qxu:home|Door43 (qxu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qxu|d43-qxu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qxu/archive/master.zip|d43-qxu.zip]]
+
+**Recent Changes**
+{{changes>ns = qxu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qxu|Ethnologue data]]
+
